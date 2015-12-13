@@ -1,0 +1,24 @@
+{
+  "name": "natural-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JayChetty/natural-clock-calendar.git"
+  },
+  "author": "Jay Chetty <jaypaulchetty@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayChetty/natural-clock-calendar/issues"
+  },
+  "homepage": "https://github.com/JayChetty/natural-clock-calendar",
+  "devDependencies": {
+    "babel-core": "^6.3.17",
+    "babel-loader": "^6.2.0",
+    "webpack": "^1.12.9"
+  }
+}
